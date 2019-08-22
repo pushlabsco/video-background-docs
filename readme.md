@@ -12,10 +12,9 @@ items:
   - path: examples
   - path: changelog.md
   - component: Divider
+  - path: support.md
   - url: https://wordpress.org/plugins/video-background
     title: Plugin Homepage
-  - url: https://pushlabs.co/support/
-    title: Support
   - url: https://github.com/pushlabsco/video-background-docs
     title: Contribute to These Docs
   - url: https://pushlabs.co/video-background-pro
