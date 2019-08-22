@@ -18,7 +18,7 @@ description: Using WPBakery to Create a Video Background
     <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/LIMgVpmLc_I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<p class="notice">**This tutorial was made for Video Background Pro, but will also work for Video Background.**</p>
+<p class="notice">**This video tutorial was made for Video Background Pro, but will also work for Video Background.**</p>
 
 WPBakery is a great tool to create website elements without much coding experience. Thankfully, Video Background has a great WPBakery integration that lets you add video backgrounds through WPBakery `Row` elements.
 

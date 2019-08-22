@@ -18,7 +18,7 @@ description: testing
     <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/oTHcCfta1Q0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<p class="notice">**This tutorial was made for Video Background Pro, but will also work for Video Background.**</p>
+<p class="notice">**This video tutorial was made for Video Background Pro, but will also work for Video Background.**</p>
 
 ## Overview
 
